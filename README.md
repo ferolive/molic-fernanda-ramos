@@ -1,6 +1,6 @@
-# MOLIC - MVP Pós-Graduação PUC-Rio
+# MOLIC - Projeto da Interação Humano Computador e da Interface do Usuário
 
-Este é o repositório do MVP (Minimum Viable Product) da disciplina de UX da Pós-Graduação da PUC-Rio, sprint **Projeto da Interação Humano Computador e da Interface do Usuário**.
+Este é o repositório do MVP (Minimum Viable Product) da disciplina de UX da Pós-Graduação da PUC-Rio.
 
 ## Sobre o Projeto
 
