@@ -4,7 +4,7 @@ Este é o repositório do MVP (Minimum Viable Product) da disciplina de UX da P�
 
 ## Sobre o Projeto
 
-Este projeto visa desenvolver uma MOLIC (Modelo de Linguagem de Interação com o Cliente) para o MVP da disciplina de UX da Pós-Graduação da PUC-Rio. 
+Este projeto visa desenvolver uma MoLIC (Modelo de Linguagem de Interação com o Cliente) para o MVP da disciplina de UX da Pós-Graduação da PUC-Rio. 
 
 ## Autores
 
