@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T19:08:16.091Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="6LkPLBi_ysjEiuD6KPD1" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T02:47:29.875Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3xO44nlLmQTG6vjWjH-0" version="24.2.7" type="github">
   <diagram name="Página-1" id="AoO2FcaskEXp3UATJx1f">
-    <mxGraphModel dx="10740" dy="5010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2566" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,7 +174,7 @@
         <mxCell id="AF0v9cde_T4cIwBc7HhS-153" value="Favoritar oferta" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="1438" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="AF0v9cde_T4cIwBc7HhS-154" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;[salvar oferta]&lt;br&gt;favoritar oferta {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;d: favorite para ver depois}&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="AF0v9cde_T4cIwBc7HhS-153">
+        <mxCell id="AF0v9cde_T4cIwBc7HhS-154" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;[salvar oferta]&lt;br&gt;favoritar oferta {&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;d: favoritar}&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="AF0v9cde_T4cIwBc7HhS-153">
           <mxGeometry y="26" width="200" height="64" as="geometry" />
         </mxCell>
         <mxCell id="AF0v9cde_T4cIwBc7HhS-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AF0v9cde_T4cIwBc7HhS-103" target="AF0v9cde_T4cIwBc7HhS-154">
